@@ -12,6 +12,7 @@ gem "sprockets-rails"
 #
 gem 'bcrypt', '3.1.13'
 
+gem "webpacker"
 
 # 
 gem 'bootstrap-sass', '3.4.1'
